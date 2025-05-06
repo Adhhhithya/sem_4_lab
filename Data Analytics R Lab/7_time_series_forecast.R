@@ -40,3 +40,5 @@ checkresiduals(ets_model)
 
 write.csv(forecast_arima, "arima_forecast.csv") 
 write.csv(forecast_ets, "ets_forecast.csv") 
+
+
